@@ -36,7 +36,7 @@ python YouTube.py
 
 ```
 .
-├── main.py
+├── YouTube.py
 └── README.md
 ```
 
